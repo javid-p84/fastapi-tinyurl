@@ -1,2 +1,8 @@
 fastapi-tinyurl/
 .fastapi-tinyurl/
+bin/
+.bin/
+lib/
+.lib/
+.lib64/
+lib64/
